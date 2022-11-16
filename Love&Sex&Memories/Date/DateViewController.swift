@@ -14,6 +14,7 @@ class DateViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .red
+//        self.title = "Date"
     }
 
     // MARK: - Properties
