@@ -37,6 +37,7 @@ class TabBarViewController: UITabBarController {
         // Customize tab bar
         tabBar.isTranslucent = false
         tabBar.backgroundColor = .white
+        tabBar.unselectedItemTintColor = .black
     }
 
 }

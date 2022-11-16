@@ -74,9 +74,7 @@
 		500DDA0E29254E420057FB75 /* Love&Sex&Memories */ = {
 			isa = PBXGroup;
 			children = (
-				500DDA1329254E420057FB75 /* TabBarViewController.swift */,
-				500DDA24292551010057FB75 /* Date */,
-				500DDA23292550F20057FB75 /* Memories */,
+				500DDA3B2925591A0057FB75 /* Modules */,
 				500DDA252925511A0057FB75 /* Helpers */,
 				500DDA26292551280057FB75 /* Resources */,
 			);
@@ -120,10 +118,20 @@
 		500DDA26292551280057FB75 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				500DDA1329254E420057FB75 /* TabBarViewController.swift */,
 				500DDA0F29254E420057FB75 /* AppDelegate.swift */,
 				500DDA1129254E420057FB75 /* SceneDelegate.swift */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		500DDA3B2925591A0057FB75 /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				500DDA24292551010057FB75 /* Date */,
+				500DDA23292550F20057FB75 /* Memories */,
+			);
+			path = Modules;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
