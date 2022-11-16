@@ -7,11 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TabBarViewController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .green
+        // Set view controllers
+        self.viewControllers = [DateRouter.createModule(),MemoriesRouter.createModule()]
     }
 
 
