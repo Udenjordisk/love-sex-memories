@@ -60,8 +60,40 @@
 				500DDA1829254E440057FB75 /* Assets.xcassets */,
 				500DDA1A29254E440057FB75 /* LaunchScreen.storyboard */,
 				500DDA1D29254E440057FB75 /* Info.plist */,
+				500DDA24292551010057FB75 /* Date */,
+				500DDA23292550F20057FB75 /* Memories */,
+				500DDA252925511A0057FB75 /* Helpers */,
+				500DDA26292551280057FB75 /* Resources */,
 			);
 			path = "Love&Sex&Memories";
+			sourceTree = "<group>";
+		};
+		500DDA23292550F20057FB75 /* Memories */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Memories;
+			sourceTree = "<group>";
+		};
+		500DDA24292551010057FB75 /* Date */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Date;
+			sourceTree = "<group>";
+		};
+		500DDA252925511A0057FB75 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		500DDA26292551280057FB75 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
